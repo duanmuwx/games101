@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/duanmu/Documents/coding/project_c_plus/test_2/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/opt/homebrew/include/eigen3 -I/usr/local/include -isystem /opt/homebrew/Cellar/opencv/4.8.1_1/include/opencv4 -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/Rasterizer.dir/main.cpp.o -c /Users/duanmu/Documents/coding/project_c_plus/test_2/main.cpp",
+  "file": "/Users/duanmu/Documents/coding/project_c_plus/test_2/main.cpp",
+  "output": "CMakeFiles/Rasterizer.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/duanmu/Documents/coding/project_c_plus/test_2/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/opt/homebrew/include/eigen3 -I/usr/local/include -isystem /opt/homebrew/Cellar/opencv/4.8.1_1/include/opencv4 -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/Rasterizer.dir/rasterizer.cpp.o -c /Users/duanmu/Documents/coding/project_c_plus/test_2/rasterizer.cpp",
+  "file": "/Users/duanmu/Documents/coding/project_c_plus/test_2/rasterizer.cpp",
+  "output": "CMakeFiles/Rasterizer.dir/rasterizer.cpp.o"
+},
+{
+  "directory": "/Users/duanmu/Documents/coding/project_c_plus/test_2/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/opt/homebrew/include/eigen3 -I/usr/local/include -isystem /opt/homebrew/Cellar/opencv/4.8.1_1/include/opencv4 -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/Rasterizer.dir/Triangle.cpp.o -c /Users/duanmu/Documents/coding/project_c_plus/test_2/Triangle.cpp",
+  "file": "/Users/duanmu/Documents/coding/project_c_plus/test_2/Triangle.cpp",
+  "output": "CMakeFiles/Rasterizer.dir/Triangle.cpp.o"
+}
+]
